@@ -55,3 +55,13 @@ Plotting training and validation loss.
 - Task 7: Predictions
 Plot and compare raw predictions.
 Plot and compare price predictions.
+
+
+## CERTIFICATE DETAILS
+
+- Name: Predicting House Prices with Regression using TensorFlow
+- Issuing Organization: Coursera
+- Issue Date: May 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 8VP6WQM65JUK
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/8VP6WQM65JUK
